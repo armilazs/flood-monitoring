@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: flood-monitoring
+    env: docker
+    plan: free
+    region: singapore
